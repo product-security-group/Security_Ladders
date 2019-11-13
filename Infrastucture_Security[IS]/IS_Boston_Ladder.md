@@ -2,9 +2,17 @@
 
 | Band | Title | Type | Promote in Band | Usual Time in Grade | Lower Salary | Mid Salary | High Salary | Variable Compensation |
 | ---- | ------ | ----- | -------- |---------- |  ------------ | ---------- | ----------- | --------------------- |
-| 1 | Associate Security Engineer | Technical | No | 6m - 1yr | 56K  | 70K | 85K | Not eligible |
-| 2 | Security Engineer | Technical | No | 1yr - 3yr | 73K  | 92K | 110K | Not eligible |
-| 3 | Senior Security Engineer | Technical | No | 2yr - 5yr | 88K  | 110K | 132K | Not eligible |
-| 4 | Principal Security Engineer | Technical | No | 4yr  - 7yr | 104K  | 130K | 156K | Infrequent |
-| 5 | Advisory Security Engineer | Technical & Managerial | Yes- Sr. Mgr for MGMT track | 5yr - 10yr | 123K  | 153K | 184K | Frequent |
-| 6 | Director of Infrastructure Security | Managerial | Yes - Sr. Dir for MGMT track | 9yr + | 162K  | 215K | 265K | Mostly |
+| 0	| Intern\* |  |  |  | 10k | 10k | 10k |  |
+| 1	| Associate Security Engineer |  |  |  | 56k | 70k | 85k |  |
+| 1	| Security Engineer |  |  |  | 73k | 92k | 110k |  |
+| 2	| Senior Security Engineer |  |  |  | 88k | 110k | 132k |  |
+| 2	| Staff Security Engineer |  |  |  | 88k | 110k | 132k |  |
+| 3	| Principal Security Engineer |  |  |  | 104k | 130k | 156k |  |
+| 3	| Advisory Security Engineer |  |  |  | 123k | 153k | 184k |  |
+| 4	| Architect	|  |  |  | 146k | 182k | 219k |  |
+| 5	| Mgr./Sr. Mgr Infrastructure Security |  |  |  | 155k | 192k | 230k |  |
+| 6	| Director/Sr of Infrastructure Security |  |  |  | 162k | 215k | 265k |  |
+| 6	| Group Architect |  |  |  | 162k | 203k | 244k |  |
+| 6	| Chief Security Officer | Managerial | Yes - Sr.Dir for MGMT track | 9yr+ | 250k | 335k | 400k | Mostly |
+
+<ins>\* salary is per semester</ins>

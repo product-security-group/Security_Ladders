@@ -7,10 +7,10 @@
 ### [RM] Risk Management
 | ID#  | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
 | ---- | ------| -------  | ------ | -------| ------- | ------ | 
-| **[RM.1]** | *Has basic knowledge of security risk management practices including conducting basic 3rd party risk assessments* | `SAME`  | Has <ins>**working**</ins> knowledge .... | Has <ins>**deep**</ins> knowledge ... | Has <ins>**comprehensive**</ins> knowledge... | Has <ins>**expert**</ins> knowledge... | 
-| **[RM.2]**| `N/A` | *Proposes improvements to the risk management process & adoption* | `SAME` | <ins>**Defines**</ins> improvements ...  | <ins>**Leads**</ins> improvements ... | `SAME` | 
-| **[RM.3]**| `N/A` | `N/A`  | `N/A`  | *Maintains an Enterprise Risk Framework*  | <ins>**Defines**</ins> an ... | <ins>**Leads**</ins> the deployment of an ... |
-| **[RM.4]**| `N/A`|`N/A` | `N/A`|`N/A` | *Has basic knowledge of operational risk management practices*| *Has <ins>**working**</ins> knowledge....* |
+| **[RM.1]** | *Has basic knowledge of security risk management practices including conducting basic 3rd party risk assessments* | `SAME`  | Has <ins>**working**</ins> knowledge... | Has <ins>**deep**</ins> knowledge... | Has <ins>**comprehensive**</ins> knowledge... | Has <ins>**expert**</ins> knowledge... | 
+| **[RM.2]**| `N/A` | *Proposes improvements to the risk management process & adoption* | `SAME` | <ins>**Defines**</ins> improvements...  | <ins>**Leads**</ins> improvements ... | `SAME` | 
+| **[RM.3]**| `N/A` | `N/A`  | `N/A`  | *Maintains an Enterprise Risk Framework*  | <ins>**Defines**</ins> an... | <ins>**Leads**</ins> the deployment of an... |
+| **[RM.4]**| `N/A`|`N/A` | `N/A`|`N/A` | *Has basic knowledge of operational risk management practices*| *Has <ins>**working**</ins> knowledge...* |
 
 <!--- Add comments here for this area --->
 
@@ -18,7 +18,7 @@
 | ID#         | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
 | ----        | ------    | ------- | ------ | -------| ------- | ------ | 
 | **[APS.1]** | `N/A`     | `N/A`  | *Has basic knowledge of all complementary risk practices [Internal Audit, Privacy, Ethics]* | Has <ins>**working**</ins> knowledge... | Has <ins>**deep**</ins> knowledge... | Has <ins>**comprehensive**</ins> knowledge...|
-| **[APS.2]** | `N/A`     | `N/A`  | `N/A`  | *Proposes improvements to APS* | `SAME` | <ins>**Defines**</ins> improvements ...|
+| **[APS.2]** | `N/A`     | `N/A`  | `N/A`  | *Proposes improvements to APS* | `SAME` | <ins>**Defines**</ins> improvements...|
 
 <!--- Add comments here for this area --->
 
@@ -27,7 +27,7 @@
 | ----        | ------    | ------- | ------ | -------| ------- | ------ | 
 | **[CA.1]** | *Has basic knowledge of controls assurance processes/practices*    | `SAME` | Has <ins>**working**</ins> knowledge... | Has <ins>**deep**</ins> knowledge... | Has <ins>**comprehensive**</ins> knowledge... | Has <ins>**expert**</ins> knowledge...|
 | **[CA.2]** | *Has the ability to test existing controls*   | <ins>**Proposes**</ins> new controls| <ins>**Defines**</ins> new controls...  | <ins>**Deploys**</ins> new control... | `SAME`| `SAME`|
-| **[CA.3]** | `N/A`     | `N/A`  | *Contributes to improvements in controls assurance processes/practices*  | <ins>**Proposes**</ins> improvements... | <ins>**Defines**</ins> improvements...| <ins>**Leads**</ins> improvements ...|
+| **[CA.3]** | `N/A`     | `N/A`  | *Contributes to improvements in controls assurance processes/practices*  | <ins>**Proposes**</ins> improvements... | <ins>**Defines**</ins> improvements...| <ins>**Leads**</ins> improvements...|
 | **[CA.4]** |`N/A`|`N/A`|*Has basic knowledge of all certifications that are relevant to <COMPANY>*|Has <ins>**working**</ins> knowledge...|Has <ins>**deep**</ins> knowledge...|`SAME`|
 | **[CA.5]** |`N/A`|`N/A`|*Has working knowledge of at least 1 certification and works with the business to recommend/define need certifications that meet business drivers*|Has <ins>**comprehensive**</ins> knowledge...|Has <ins>**comprehensive**</ins> knowledge <ins>**all**</ins>...|`SAME`|
 
