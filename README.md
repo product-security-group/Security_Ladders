@@ -28,4 +28,4 @@ The `root` folder also contains a folder for general knowledge, expected of all 
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## [License](./License)
+## [License](./LICENSE)
