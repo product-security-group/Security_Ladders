@@ -1,99 +1,91 @@
 # General Knowledge
 
-<!--- Add comments here for this area --->
+<!--- It is critical that the security team has a good understanding of the business arounf them --->
 
-### [OK] Organizational Knowledge
+## [OK] Organizational Knowledge
 
-| ID#         | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ----        | ------    | ------- | ------ | -------| ------- | ------ |
-| **[OK.1]** |*Has basic knowledge of <COMPANY> products*|`SAME`|Has <ins>**working**</ins> knowledge...|Has detailed knowledge of <COMPANY> products, their commonly used workflows and keeps up to date with new products acquisitions, and strategic moves the company is making|`SAME`|`SAME`|
-| **[OK.2]** |`N/A`|*Has a basic understanding of how teams work at <COMPANY>*|Has <ins>**sound**</ins> knowledge...|`SAME`|`SAME`|`SAME`|
-| **[OK.3]** |`N/A`|`N/A`|`N/A`|`N/A`|*Understands the relevance of specific career ladder to <COMPANY>’s business, brand value and strategy and is able to drive proactive corrective action to mitigate risks to them and/or add direct business value*|`SAME`|
+| ID#          | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 | 
+| ----         | ------- | ------- | --------| ------- | ------- | -------- | 
+| **[OK.1]** |Has basic knowledge of (COMPANY) products|Has <ins>**working**</ins> knowledge...|Has <ins>**deep**</ins> knowledge of <COMPANY> products, their commonly used workflows and keeps up to date with new products acquisitions, and strategic moves the company is making|`SAME`|Has <ins>**comprehensive**</ins>...| Has <ins>**expert**</ins>...|
+| **[OK.2]** |Has a basic understanding of how teams work at (COMPANY)|Has <ins>**working**</ins> understanding...|`SAME`|Has <ins>**deep**</ins> understanding...|Has <ins>**comprehensive**</ins> understanding...| Has <ins>**expert**</ins> understanding... |
+| **[OK.3]** |`N/A`|`N/A`|`N/A`|`N\A`|Understands the relevance of specific career ladder to (COMPANY)’s business, brand value and strategy and is able to drive proactive corrective action to mitigate risks to them and/or add direct business value| Deep knowledge of Corporate and Product Strategy and it’s implications on the security strategy/mission and the ability to articulate this to all stakeholders. |
 
-<!--- Add comments here for this area --->
+<!--- Teamwork is very important to the success of the team --->
 
-### [TW] Teamwork/Collaboration
+## [TW] Teamwork/Collaboration
 
-| ID#         | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ----        | ------    | ------- | ------ | -------| ------- | ------ |
-| **[TW.1]** |*Escalates unattended information ladder issues to more senior members*|`SAME`|...to <ins>**higher management**</ins>|`SAME`|`SAME`|`SAME`|
-| **[TW.2]** |*Establishes trust with team by demonstrating technical competence and knowledge of security*|`SAME`|`SAME`|`SAME`|`SAME`|`SAME`|
-| **[TW.3]** |`N/A`|*Communicates effectively with finance, legal, and HR teams while maintaining a customer-focused relationship with them*|...with <ins>**clients, teams and vendors**</ins> while..|`SAME`|`SAME`|`SAME`|
-| **[TW.4]** |`N/A`|`N/A`|*Influences and negotiates with them to get their security/risk buy-in*|`SAME`|`SAME`|`SAME`|
-| **[TW.5]** |`N/A`|`N/A`|*Reports the progress of the team through regular dashboard updates*|`SAME`|`SAME`|`SAME`|
-| **[TW.6]** |`N/A`|`N/A`|`N/A`|`N/A`|*Closely collaborates with the legal, industry, and finance teams around risks and the strategic direction of <COMPANY>*|`SAME`|
+| ID#         | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 |
+| ----        | ------- | ------- | --------| ------- | ------- | ------- |
+| **[TW.1]** |Escalates  issues to more senior members of the security team|...to <ins>**higher security management**</ins>|`SAME`|..to <ins>**higher corporate management**</ins>|`SAME`| ..to <ins>**executive leadership/Board**</ins> |
+| **[TW.2]** |Establishes trust with teams by demonstrating technical competence and knowledge of security|Influences and negotiates with teams to get their security/risk buy-in|Participates in cross functional programs within security|<ins>**Leads**</ins> cross functional...|<ins>**Defines**</ins> cross functional...| Actively participates in various (COMPANY) leadership teams [ex. Product, Operations] and specialized working groups as required |
+| **[TW.3]** |Communicates effectively with finance, legal, and HR teams while maintaining a customer-focused relationship with them|`SAME`|...with <ins>**clients, teams and vendors**</ins> while...|..with <ins>**senior corporate executives**</ins> while...|`SAME`| ..with <ins>**executive leadership/Board**</ins> while... |
+| **[TW.4]** |`N\A`|`N\A`|`N\A`|`N\A`|`N\A`| Establishes and nurtures the security culture of the organization. |
 
-<!--- Add comments here for this area --->
+<!--- Projection the team externally can help with recruitment and career development --->
 
-### [EI] External Influence
+## [EI] External Influence
 
-| ID#         | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ----        | ------    | ------- | ------ | -------| ------- | ------ |
-| **[EI.1]** |*Attends conferences to network with similar career ladder community and convey the <COMPANY>'s position in positive light*|`SAME`|`SAME`|`SAME`|`SAME`|`SAME`|
-| **[EI.2]** |*Shares learning/conference insights with <COMPANY>, highlighting latest threats and external perception of the <COMPANY>*|`SAME`|`SAME`|`SAME`|`SAME`|`SAME`|
-| **[EI.3]** |`N/A`|`N/A`|`N/A`|*Presents <COMPANY>'s team research, tools, and best practices at conferences and public forums*|`SAME`|`SAME`|
-| **[EI.4]** |`N/A`|`N/A`|`N/A`|`N/A`|*Participates in the <COMPANY>’s public team outreach through official blog posts, social media, and public forums*|`SAME`|
-| **[EI.5]** |`N/A`|`N/A`|`N/A`|`N/A`|*Represents <COMPANY> and contributes to various consortiums, standards committees, panels, and other security platforms*|`SAME`|
+| ID#         | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 | 
+| ----        | ------- | ------- | --------| ------- | ------- | -------- |
+| **[EI.1]** |Attends conferences to network with similar career ladder community and convey the (COMPANY)'s position in positive light |Shares learning/conference insights with (COMPANY), highlighting latest threats and external perception of the (COMPANY)|Presents (COMPANY)'s team research, tools, and best practices at conferences and public forums|Participates in the (COMPANY)’s public team outreach through official blog posts, social media, and public forums|Represents (COMPANY) and contributes to various consortiums, standards committees, panels, and other security platforms| Participates in/facilitates external senior level security discussions and convey the company's security/risk position in positive light. |
 
-<!--- Add comments here for this area --->
+<!--- Having the ability to procure items is important to force multiplication --->
 
-### [VE] Vendor Engagement
+## [VE] Vendor Engagement
 
-| ID#         | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ----        | ------    | ------- | ------ | -------| ------- | ------ |
-| **[VE.1]** |`N/A`|`N/A`|*Evaluates various vendors and checks references, work history*|`SAME`|`SAME`|`SAME`|
-| **[VE.2]** |`N/A`|`N/A`|*Facilitates engagement with internal teams for both onsite and remote reviews*|`SAME`|`SAME`|`SAME`|
-| **[VE.3]** |`N/A`|`N/A`|`N/A`|*Help define SLA (service level agreements) and KPIs (key performance indicators) on deliverables*|`SAME`|`SAME`|
+| ID#         | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 |
+| ----        | ------- | ------- | --------| ------- | ------- | ----- | 
+| **[VE.1]** |Evaluates various vendors and checks references, work history|Facilitates engagement with internal teams for both onsite and remote reviews|Help define SLA (service level agreements) and KPIs (key performance indicators) on deliverables|`SAME`|`SAME`| Maintains a list of trusted vendors/partners that can be called upon when required | 
 
-<!--- Add comments here for this area --->
+<!--- Giving back is the most nobile part of this job --->
 
-### [TC] Teaching
+## [TC] Teaching
 
-| ID#         | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ----        | ------    | ------- | ------ | -------| ------- | ------ |
-| **[TC.1]** |`N/A`|`N/A`|*Provides mentoring to more junior team personnel*|Provides leadership and mentoring to less experienced team personnel|`SAME`|`SAME`|
-| **[TC.2]** |`N/A`|`N/A`|`N/A`|*Teaches others to solve problems rather than solving themselves*|`SAME`|`SAME`|
+| ID#         | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 |
+| ----        | ------- | ------- | --------| ------- | ------- | ------ |
+| **[TC.1]** |`N/A`|Provides mentoring to more junior security team personnel|.. to <ins>**satellite team members**</ins>|`SAME`|...to <ins>**non-(COMPANY) individual contributors**</ins>| ...to <ins>**non-(COMPANY) managerial contributors**</ins>
 
-<!--- Add comments here for this area --->
+<!--- Hiring your successor is key --->
 
-### [HR] Hiring
+## [HR] Hiring
 
-| ID#         | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ----        | ------    | ------- | ------ | -------| ------- | ------ |
-| **[HR.1]** |`N/A`|`N/A`|*Participates in screening of candidates*|...in <ins>**shortlisting, screening and hiring**</ins> of...|`SAME`|`SAME`|
+| ID#         | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 |
+| ----        | ------- | ------- | --------| ------- | ------- | ----- |
+| **[HR.1]** |`N/A`|Participates in screening of candidates|...in <ins>**shortlisting, screening and hiring**</ins> of...|Proposes organizational structure of the function | <ins> **Defines** </ins> the ....| Defines the organizational structure of the security organization as well as the roles & responsibilities of the organizational members. |
 
-<!--- Add comments here for this area --->
+<!--- This is key skill. One item for future consideration - Divestiture --->
 
-### [MA] Mergers and Acquisitions
+## [MA] Mergers and Acquisitions
 
-| ID#         | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ----        | ------    | ------- | ------ | -------| ------- | ------ |
-| **[MA.1]** |`N/A`|`N/A`|`N/A`|*Participates in evaluating future security risks for <COMPANY> during an acquisition*|...future <ins>**security/compliance risks**</ins> for...|`SAME`|
+| ID#         | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 |
+| ----        | ------- | ------- | --------| ------- | ------- | ---- |
+| **[MA.1]** |`N/A`|`N/A`|Participates in evaluating future security risks for <COMPANY> during an acquisition|...future <ins>**security/compliance risks**</ins> for...|`SAME`| Is accountable for all aspects of security related to mergers and acquisitions, and joint ventures / partners as appropriate |
+| **[MA.2]** |`N/A`|`N/A`|`N\A`|Participates in the potential security innovation investments|<ins>**Leads**</ins> in the...| <ins>**Defines**</ins> in the...|
 
-<!--- Add comments here for this area --->
+<!--- Determine how much scope you can influence --->
 
-### [SC] Scope
+## [SC] Scope
 
-| ID#         | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ----        | ------    | ------- | ------ | -------| ------- | ------ |
-| **[SC.1]** |`N/A`|*Drives and takes charge of information risk projects*|Drives and takes charge of team-level initiatives within the <COMPANY>|...of <ins>**medium-sized**</ins> initiatives...|...of <ins>**large**</ins> initiatives...|`SAME`|
-| **[SC.2]** |`N/A`|`N/A`|`N/A`|`N/A`|*Estimates size of projects greater than 6 months in length*|`SAME`|
+| ID#         | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 |
+| ----        | ------- | ------- | --------| ------- | ------- | ----- |
+| **[SC.1]** |Drives and takes charge of individual projects|... of <ins>**functional-level**</ins> initiatives |...of <ins>**medium-sized security**</ins> initiatives...|...of <ins>**large-sized security**</ins> initiatives...|`SAME`| Executes broad business impact security initiatives across the entire organization as well as collaborating with partner organizations on joint initiatives with a time horizon of 24+ months. |
+| **[SC.2]** |`N\A`|`N\A`|`N\A`|`N\A`|`N\A`| Is accountable for all aspects of security at the organization, including physical security. |
 
-<!--- Add comments here for this area --->
+<!--- As the individual grows, decveloping strategy is a key skill --->
 
-### [SY] Strategy
+## [SY] Strategy
 
-| ID#         | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ----        | ------    | ------- | ------ | -------| ------- | ------ |
-| **[SY.1]** |`N/A`|*Provides input on the career ladder team's short and long-term security strategy*|Provides <ins>feedback<ins> on...|`SAME`|<ins>Helps define and provides feedback</ins> on...|`SAME`|
-| **[SY.2]** |`N/A`|`N/A`|`N/A`|`N/A`|*Focuses on aligning with development and business on strategic priorities*|`SAME`|
-| **[SY.3]** |`N/A`|`N/A`|`N/A`|`N/A`|*Assists security management with identifying resources and setting priority of work*|`SAME`|
+| ID#         | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 |
+| ----        | ------- | ------- | --------| ------- | ------- | ------- |
+| **[SY.1]** |Provides input on the short-term functional security strategy|...short & <ins>**long-term**</ins> functional strategy|Leads the implementation of the functional security strategy| Proposes changes to the short & long-term overall security strategy |Defines the functional security strategy | Defines the security mission  & strategy for the organization based on business goals and objectives. |
+| **[SY.2]** |`N\A`|`N\A`|`N\A`|`N\A`|`N\A`| Chairs the Information Security Steering Committee [ISSC] |
 
-<!--- Add comments here for this area --->
+<!--- Ability to communicate is the key skill for security roles --->
 
-### [CO] Communication
+## [CO] Communication
 
-| ID#         | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ----        | ------    | ------- | ------ | -------| ------- | ------ |
-| **[CO.1]** |*Effectively communicates security concepts to the security team*|...to the <ins>**finance, legal, and HR**</ins> teams|Effectively communicates the career ladder vision within the finance, Legal, HR and Sales teams|...within the <ins>**<COMPANY>**</ins>|Creates and communicates career ladder vision within the <COMPANY>|`SAME`|
-| **[CO.2]** |`N/A`|`N/A`|`N/A`|*Champion new initiatives*|`SAME`|`SAME`|
+| ID#         | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 |
+| ----        | ------- | ------- | --------| ------- | ------- | ----- | 
+| **[CO.1]** |Effectively communicates security vision to the security team|... to the <ins>**finance, Legal, HR and Sales teams**</ins>|...to the <ins>**(COMPANY)**</ins>|Proposes changes to the security vision |Leads the communication of the security vision to the (COMPANY)| Creates and communicates the security vision of the company both internally and externally  |
+| **[CO.2]** |`N\A`|`N\A`|`N\A`|`N\A`|`N\A`| Actively develops marketing programs/campaigns that articulate security concepts and messages to the organization. |
+| **[CO.3]** |`N\A`|`N\A`|`N\A`|`N\A`|`N\A`| Primary spokesperson to both the press, investors, and regulators/legislatures as it relates to security. |

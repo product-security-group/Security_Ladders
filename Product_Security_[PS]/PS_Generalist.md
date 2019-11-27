@@ -1,81 +1,79 @@
-PRODUCT SECURITY: Generalist
+# PRODUCT SECURITY: Generalist
+
+**NOTE**: The generalist career ladder is meant for organizations that do not have the budget or ability to hire specialized individuals. While the skills listed below may seem overwhelming, trust us that these folks can be hired and are not purple :elephant: s
+
+**ANALYSTS**: For the generalists track Product Security professionals, there are no ladder for Analyst. The rationale is that in order for an individual to perform these security duties, they must have a solid grounding as a software engineer or QA analyst and will not likely come into the ladder any lower than a Senior professional.
 
 ## Functional/Technical Knowledge
 
-<!--- Add comments here for this area --->
+<!--- SDL is the core area for this career ladder --->
 
 ### [SDL] Secure Development Lifecycle
 
-| ID#         | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ----        | ------    | ------- | ------ | -------| ------- | ------ |
-| **[SDL.1]** |`N/A`|`N/A`|*Has working knowledge of the SDL process and helps teams understand it*|Has <ins>**deep**</ins> knowledge...|Has <ins>**comprehensive**</ins> knowledge...|`SAME`|
-| **[SDL.2]** |`N/A`|`N/A`|*Develops knowledge in security areas that directly affect their products*|...<ins>**and demonstrates expertise in at least 1 specific area [ex. Mobile, SaaS, Cryptography]**</ins>|Defines the strategy to increase SDL adoption in product teams|`SAME`|
-| **[SDL.3]** |`N/A`|`N/A`|*Proposes improvements to the SDL process*|`SAME`|<ins>**Leads**</ins> the improvement process|`SAME`|
-| **[SDL.4]** |`N/A`|`N/A`|*Identifies, prioritizes, and engages with products that need a focus on security*|`SAME`|`SAME`|`SAME`|
+| ID#         |  Senior | Principal | Advisory/Mgr | Architect/Director |
+| ----        | ------ | -------| ------- | ------ |
+| **[SDL.1]** |Develops knowledge in security areas that directly affect their products|...<ins>**and demonstrates expertise in at least 1 specific area [ex. Mobile, SaaS, Cryptography, IOT/OT]**</ins>|and demonstrates expertise in at least <ins>**2**</ins>...|`SAME`|
+| **[SDL.2]** |Proposes improvements to the SDL process|<ins>**Leads**</ins> improvements...|<ins>**Defines**</ins> improvements...|`SAME`|
+| **[SDL.3]** |Has <ins>**working**</ins> knowledge of the SDL process and helps teams understand it|Has <ins>**deep**</ins> knowledge...|Has <ins>**comprehensive**</ins> knowledge...|Has <ins>**expert**</ins> knowledge...|
+| **[SDL.4]** |`N/A`|`N/A`|`N/A`|Has working knowledge of Application Security frameworks [BSIMM, OpenSamm] and how they apply to teams|
 
-<!--- Add comments here for this area --->
+<!--- This is somewhat optional based on the organization --->
 
 ### [APS] Additional Product Security Practices
 
-| ID#         | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ----        | ------    | ------- | ------ | -------| ------- | ------ |
-| **[APS.1]** |`N/A`|`N/A`|`N/A`|*Has comprehensive knowledge of at least 1 of the complementary product security practices [product privacy, intellectual property protection/supply chain, or export control], and helps teams understand it*|...at least <ins>**2**</ins> of...|`SAME`|
-| **[APS.2]** |`N/A`|`N/A`|`N/A`|*Proposes improvements in each of these processes*|<ins>**Leads**</ins> improvements...|`SAME`|
-| **[APS.3]** |`N/A`|`N/A`|`N/A`|*Defines the strategy to increase adoption in product teams*|`SAME`|`SAME`|
+| ID#         | Senior | Principal | Advisory/Mgr | Architect/Director |
+| ----        | ------ | -------| ------- | ------ |
+| **[APS.1]** |Has working knowledge of at least 1 of the complementary product security practices [product privacy, intellectual property protection/supply chain, or export control], and helps teams understand it*|Has <ins>**deep**</ins> knowledge of at least 1...|Has deep knowledge of at least <ins>**2**<ins>...|Has deep knowledge of at least <ins>**3**<ins>...|
 
-<!--- Add comments here for this area --->
+<!--- This will be critical for any company producing products --->
 
 ### [VR] Vulnerability Response
 
-| ID#         | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ----        | ------    | ------- | ------ | -------| ------- | ------ |
-| **[VR.1]** |`N/A`|`N/A`|*Has working knowledge of the external vulnerability process and helps teams understand it*|Has <ins>**deep**</ins> knowledge...|Has <ins>**comprehensive**</ins> knowledge...|`SAME`|
-| **[VR.2]** |`N/A`|`N/A`|*Can document security bugs and communicate with affected parties*|`SAME`|`SAME`|`SAME`|
-| **[VR.3]** |`N/A`|`N/A`|*Proposes improvements to the vulnerability response process*|`SAME`|<ins>**Leads**</ins> the improvement process|`SAME`|
-| **[VR.4]** |`N/A`|`N/A`|`N/A`|*Guides and mentors product teams with actionable plans and technical insights in case of reactive situations and/or zero days*|`SAME`|`SAME`|
-| **[VR.5]** |`N/A`|`N/A`|`N/A`|`N/A`|*Defines the strategy to increase adoption in product teams*|`SAME`|
+| ID#         | Senior | Principal | Advisory/Mgr | Architect/Director |
+| ----        | ------ | -------| ------- | ------ |
+| **[VR.1]** |Can document security bugs and communicate with affected parties|Guides and mentors product teams with actionable plans and technical insights in case of reactive situations and/or zero days|Can function as a PSIRT incident manager|`SAME`|
+| **[VR.2]** |Proposes improvements to the vulnerability response process|<ins>**Leads**</ins> improvements..|<ins>**Defines**</ins> improvements..|`SAME`|
+| **[VR.3]** |Has working knowledge of the external vulnerability process (inc. bug bounties) and helps teams understand it|Has <ins>**deep**</ins> knowledge...|Has <ins>**comprehensive**</ins> knowledge...|Has <ins>**expert**</ins> knowledge...|
 
-
-<!--- Add comments here for this area --->
+<!--- This is a core discipline --->
 
 ### [TM] Threat Modeling
 
-| ID#         | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ----        | ------    | ------- | ------ | -------| ------- | ------ |
-| **[TM.1]** |`N/A`|`N/A`|*Has deep knowledge of the threat modeling process and has demonstrated competence in conducting threat modeling exercises and assisting teams in assessing the results*|Has <ins>**comprehensive**</ins> knowledge...|`SAME`|`SAME`|
-| **[TM.2]** |`N/A`|`N/A`|`N/A`|`N/A`|*Trains trainers to teach product teams how to effectively execute threat modeling exercises*|`SAME`|
+| ID#         | Senior | Principal | Advisory/Mgr | Architect/Director |
+| ----        | ------ | -------| ------- | ------ |
+| **[TM.1]** |Has deep knowledge of the threat modeling process and has demonstrated competence in conducting threat modeling exercises and assisting teams in assessing the results|Has <ins>**comprehensive**</ins> knowledge...|Has <ins>**expert**</ins> knowledge...|`SAME`|
+| **[TM.2]** |`N/A`|`N/A`|Trains trainers to teach product teams how to effectively execute threat modeling exercises|`SAME`|
 
-<!--- Add comments here for this area --->
+<!--- Should be a hard requirement for this --->
 
 ### [SF] Security Features
 
-| ID#         | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ----        | ------    | ------- | ------ | -------| ------- | ------ |
-| **[SF.1]** |`N/A`|`N/A`|*Stays current with industry best practices, design patterns, threats, and attacks*|`SAME`|...attacks, <ins>**compliance requirements, and the security issues affecting \<COMPANY\> or similar industries**</ins>|`SAME`|
-| **[SF.2]** |`N/A`|`N/A`|*Through consultation, assists the team in prioritizing security features*|`SAME`|`SAME`|`SAME`|
+| ID#         | Senior | Principal | Advisory/Mgr | Architect/Director |
+| ----        | ------ | -------| ------- | ------ |
+| **[SF.1]** |Stays current with industry best practices, design patterns, compliance requirements, threats, and attacks|Interprets these patterns and <ins>**proposes**</ins> security features|Through consultation, <ins>**leads**</ins> the product teams in prioritizing features|<ins>**Defines**</ins> security features|
 
-<!--- Add comments here for this area --->
+<!--- Good PS folks need to be able to code --->
 
 ### [SC] Secure Coding
 
-| ID#         | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ----        | ------    | ------- | ------ | -------| ------- | ------ |
-| **[SC.1]** |`N/A`|`N/A`|*Demonstrates deep knowledge in at least 1 programming language*|...at least <ins>**2**</ins> languages|...in <ins>**multiple**</ins> languages|`SAME`|
-| **[SC.2]** |`N/A`|`N/A`|*Experienced reviewing code for security flaws*|`SAME`|`SAME`|`SAME`|
+| ID#         | Senior | Principal | Advisory/Mgr | Architect/Director |
+| ----        | ------ | -------| ------- | ------ |
+| **[SC.1]** |Demonstrates deep knowledge in at least 1 programming language and has the ability to code review key security sections|...at least <ins>**2**</ins> languages|...in <ins>**multiple**</ins> languages|`SAME`|
 
-<!--- Add comments here for this area --->
+<!--- PS folks neeed to be able execute tools --->
 
 ### [QA] Security Testing
 
-| ID#         | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ----        | ------    | ------- | ------ | -------| ------- | ------ |
-| **[QA.1]** |`N/A`|`N/A`|*Has deep knowledge of security tools, can run them independently, and recommend their use to client teams*|`SAME`|Has <ins>**comprehensive**</ins> knowledge...|`SAME`|
+| ID#         | Senior | Principal | Advisory/Mgr | Architect/Director |
+| ----        | ------ | -------| ------- | ------ |
+| **[QA.1]** |Has the ability to manage 3rd party testing vendors against core products|Has the ability to vet and provision 3rd party testing vendors|`SAME`|`SAME`|
+| **[QA.2]** |Has working knowledge of security tools (ex. SAST, DAST, RASP, SCA), can run them independently, and recommend their use to client teams|Has <ins>**deep**</ins> knowledge...|Has <ins>**comprehensive**</ins> knowledge...|Has <ins>**expert**</ins> knowledge...|
 
-<!--- Add comments here for this area --->
+<!--- Core skill --->
 
 ### [ST] Security Training
 
-| ID#         | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ----        | ------    | ------- | ------ | -------| ------- | ------ |
-| **[ST.1]** |`N/A`|`N/A`|*Proposes improvements to engineering training programs*|Identifies gaps in engineering training in the company and the need for new modules|`SAME`|`SAME`|
-| **[ST.2]** |`N/A`|`N/A`|`N/A`|*Develops security-engineering trainings to increase security awareness on broader and in-depth product security topics*|`SAME`|`SAME`|
+| ID#         | Senior | Principal | Advisory/Mgr | Architect/Director |
+| ----        | ------ | -------| ------- | ------ |
+| **[ST.1]** |Has ability to manage 3rd party engineering training materials/platforms|Has the ability to vet and provision 3rd party training vendors|Has the ability to develop customized internal training programs|Has the ability to deliver instructor-led-training to teams|
+| **[ST.2]** |Has working knowledge of security champions programs|Proposes improvements to champion programs|Leads the champion program implementation and on-going maintenance|Acts as a mentor for security champions|
