@@ -1,4 +1,9 @@
-# BUSINESS SECURITY MANAGER
+# BUSINESS SECURITY MANAGER: Generalist
+
+**NOTE**: While it is not the exclusive path , this role is meant to be the feeder program to the Chief Security Officer title.
+
+**ENTRY-LEVEL**: For the generalists track Business Security Manager professionals, there are no ladder for entry-level. The rationale is that in order for an individual to perform these security duties, they must have a solid grounding as security professional and will not likely come into the ladder any lower than a level 2 professional.
+
 
 ## Functional/Technical Knowledge
 
@@ -6,19 +11,24 @@
 
 ### [CPA] Core Practice Areas
 
-| ID# | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ---- | ------ | ------- | ------ | -------| ------- | ------ |
-| **[CPA.1]** | `N/A` | *Has working knowledge in one security discipline [Infrastructure, Product, Risk, or Physical]. [See other equivalent band levels for details]* | Has <ins>**deep**</ins> knowledge of... | ...[Infrastructure, Product, Risk, <ins>**BC/DR**</ins>, Personnel, and Physical] | `SAME` | Has <ins>**comprehensive**</ins> knowledge of... |
+| ID# | Senior | Manager | Regional | Group |
+| ----| ------ | --------| -------- | ----- |
+| **[CPA.1]**  | Functions at a Senior level in **one** security disciplines | at a  <ins>**Principal**</ins> level...  | at a  <ins>**Manager**</ins> level... | at a  <ins>**Director**</ins> level... |
+| **[CPA.2]** | Functions at an Analyst level in Information Risk| `SAME` | `SAME`| at a <ins>**Senior**</ins> level... |
+| **[CPA.3]** | `N\A` | Functions as a Analyst level for all remaining security disciplines | as a <ins>**Senior**</ins> level...| as a <ins>**Principal**</ins> level...|
 
 <!--- Add comments here for this area --->
 
 ### [ARP] Adjacent Risk Practices
 
-| ID# | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ---- | ------ | ------- | ------ | -------| ------- | ------ |
+| ID# | Senior | Manager | Regional | Group |
+| ---- | ------ | -------| ------- | ------ |
 | **[ARP.1]** | `N/A` | *Has basic knowledge of the risk discipline [See Band 1 of risk ladder]* | `SAME` | Has <ins>**working**</ins> knowledge of...band <ins>**two**</ins> risk... | `SAME` | `SAME` |
 | **[ARP.2]** | `N/A` | *Assists the organization in understanding how security complements these practices* | `SAME` | `SAME` | `SAME` | `SAME` |
 | **[ARP.3]** | `N/A` | `N/A` | *Has basic knowledge of one additional security discipline* | ...at least <ins>**two**</ins> other... | `SAME` | Has basic knowledge of all security practices |
+
+
+Has working knowledge of all of the complementary security practices [Internal Audit, Privacy, Ethics, Sustainability, EHS, Competitive Intelligence, Supply Chain/Export Control] and deep knowledge in at least 2 of the practices.
 
 <!--- Add comments here for this area --->
 
