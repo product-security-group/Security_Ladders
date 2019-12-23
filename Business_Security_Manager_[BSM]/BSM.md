@@ -4,7 +4,6 @@
 
 **ENTRY-LEVEL**: For the generalists track Business Security Manager professionals, there are no ladder for entry-level. The rationale is that in order for an individual to perform these security duties, they must have a solid grounding as security professional and will not likely come into the ladder any lower than a level 2 professional.
 
-
 ## Functional/Technical Knowledge
 
 <!--- Add comments here for this area --->
@@ -26,7 +25,6 @@
 | **[ARP.1]** | `N/A` | *Has basic knowledge of the risk discipline [See Band 1 of risk ladder]* | `SAME` | Has <ins>**working**</ins> knowledge of...band <ins>**two**</ins> risk... | `SAME` | `SAME` |
 | **[ARP.2]** | `N/A` | *Assists the organization in understanding how security complements these practices* | `SAME` | `SAME` | `SAME` | `SAME` |
 | **[ARP.3]** | `N/A` | `N/A` | *Has basic knowledge of one additional security discipline* | ...at least <ins>**two**</ins> other... | `SAME` | Has basic knowledge of all security practices |
-
 
 Has working knowledge of all of the complementary security practices [Internal Audit, Privacy, Ethics, Sustainability, EHS, Competitive Intelligence, Supply Chain/Export Control] and deep knowledge in at least 2 of the practices.
 
