@@ -54,4 +54,8 @@ PSG anticipates, with collaboration throughout the security field, to add more s
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+### Templates_[TMP] directory
+
+If you want to create a brand-new ladder, we provided a template directory that has an example of each type of file.
+
 ## [License](./LICENSE)

@@ -2,8 +2,10 @@
 
 ## Functional/Technical Knowledge
 
-| ID# | NICE 1 | NICE 2 | NICE 3 |
-| ----- | ----- | ----- | ----- |
-| **[XX.Y]** |  |  |  |
+Mapping based on Role(s):
+**Add NICE job name and identification**
 
-<!--- XX is the abbreviation from the appropriate TMP_<SPECIALTY>.md section. Y is the numerical subsection. --->
+| ID# | Knowledge (K) | Skills (S) | Tasks (T) | Abilities (A) |
+| ----- | ----------- | -----------| --------- | ------------- |
+| XX.1  | K####       | S####      | T####     | A####         |
+| XX.2  | K####       | S####      | T####     | A####         |
