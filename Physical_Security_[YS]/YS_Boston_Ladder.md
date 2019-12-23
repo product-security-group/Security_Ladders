@@ -1,16 +1,13 @@
-# PHYSCICAL SECURITY: Career Ladder
+# PHYSICAL SECURITY: Career Ladder
 
-| Band | Title | Type | Promote in Band | Usual Time in Grade | Lower Salary | Mid Salary | High Salary | Variable Compensation |
+| Level | Title | Type | Promote in Level | Usual Time in Grade | Lower Salary | Mid Salary | High Salary | Variable Compensation |
 | ---- | ------ | ----- | -------- |---------- |  ------------ | ---------- | ----------- | --------------------- |
-| 0	| Intern\* |  |  |  | 20k | 20k | 20k |  |
-| 1	| Associate Facility Security Admin |  |  |  | 40k | 55k | 70k |  |
-| 1	| Facility Security Admin |  |  |  | 50k | 65k | 80k |  |
-| 2	| Senior Facility Security Admin |  |  |  | 60k | 75k | 90k |  |
-| 2	| Staff Facility Security Admin |  |  |  | 70k | 85k | 100k |  |
-| 3	| Physical Security Specialist |  |  |  | 80k | 95k | 110k |  |
-| 3	| Senior Physical Security Specialist |  |  |  | 90k | 105k | 120k |  |
-| 4	| Lead Physical Security Specialist |  |  |  | 100k | 120k | 140k |  |
-| 5	| Mgr./Sr. Mgr Infrastructure Security |  |  |  | 120k | 140k | 160k |  |
-| 6	| Director/Sr of Infrastructure Security |  |  |  | 150k | 170k | 190k |  |
+| 0| Intern\* | Technical  | No | 0 yr | 10k/$20 per hour | 10k/$20 per hour| 10k/$20 per hour | Not eligible |
+| 1| Associate Facility Security Admin (Lvl I)| Technical  | Yes - Facility Security Admin | 0yr - 3yr | 40k | 55k | 70k | Not eligible |
+| 2| Senior Facility Security Admin (Lvl II)| Technical  | Yes - Staff FSA | 2yr - 5yr | 60k | 80k | 100k | Not eligible |
+| 3| Physical Security Specialist ( Lvl III) | Technical | Yes - Senior PSS | 4yr - 7yr | 80k | 100k | 120k | Infrequent |
+| 4| Lead Physical Security Specialist | Technical | No | 5yr - 10yr | 100k | 120k | 140k | Frequent |
+| 4| Manager - Physical Security | Managerial | Yes - Senior Manager | 5yr - 10yr | 120k | 140k | 160k | Frequent |
+| 5| Director - Physical Security | Managerial | Yes- Senior Director | 9+ yr | 150k | 170k | 190k | Mostly |
 
-<ins>\* salary is per semester</ins>
+<ins>\* 10K salary is per semester</ins>

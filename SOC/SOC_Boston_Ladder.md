@@ -1,4 +1,4 @@
-# PRODUCT SECURITY: Boston Salary Information
+# SOC: Boston Salary Information
 
 | Level | Title | Type | Promote in Level | Usual Time in Grade | Lower Salary | Mid Salary | High Salary | Variable Compensation |
 | ---- | ------ | ----- | -------- |---------- |  ------------ | ---------- | ----------- | --------------------- |

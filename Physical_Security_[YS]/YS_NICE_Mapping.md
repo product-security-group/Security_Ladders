@@ -1,7 +1,3 @@
-# PHYCSICAL SECURITY: NICE Skills Mapping
+# PHYSICAL SECURITY: NICE Skills Mapping
 
-## Functional/Technical Knowledge
-
-| ID# | NICE 1 | NICE 2 | NICE 3 |
-| ----- | ------------------| ------------------| ------------------|
-| XX.x |  |  |  |
+**NOTE:** The is no physical equivalent in the NICE skill tree. We will look to ASIS in the future to see if we can create a mapping.
