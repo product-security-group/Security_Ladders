@@ -32,4 +32,3 @@ For processes, we use the following progression.
     * Proposes Changes
     * Leads changes
     * Defines changes
-
