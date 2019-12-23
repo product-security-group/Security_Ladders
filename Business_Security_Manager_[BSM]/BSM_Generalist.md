@@ -6,65 +6,61 @@
 
 ## Functional/Technical Knowledge
 
-<!--- Add comments here for this area --->
+<!--- The BSM must have a specialty they focus on. That said, the must eventually achieve a basic level of competency in all security disciplines  --->
 
 ### [CPA] Core Practice Areas
 
-| ID# | Senior | Manager | Regional | Group |
-| ----| ------ | --------| -------- | ----- |
-| **[CPA.1]**  | Functions at a Senior level in **one** security disciplines | at a  <ins>**Principal**</ins> level...  | at a  <ins>**Manager**</ins> level... | at a  <ins>**Director**</ins> level... |
-| **[CPA.2]** | Functions at an Analyst level in Information Risk| `SAME` | `SAME`| at a <ins>**Senior**</ins> level... |
+| ID# | Analyst | Manager | Regional | Group |
+| ----| ------  | --------| -------- | ----- |
+| **[CPA.1]**  | Functions at a Senior level in **one** security disciplines (SOC, Infrastructure, Information Risk, Product Security, Physical) | at a  <ins>**Principal**</ins> level...  | at a  <ins>**Manager**</ins> level... | at a  <ins>**Director**</ins> level... |
+| **[CPA.2]** | Functions at an Analyst level from the Information Risk career ladder| `SAME` | `SAME`| at a <ins>**Senior**</ins> level... |
 | **[CPA.3]** | `N\A` | Functions as a Analyst level for all remaining security disciplines | as a <ins>**Senior**</ins> level...| as a <ins>**Principal**</ins> level...|
 
-<!--- Add comments here for this area --->
+<!--- This kicks in only at the Group/Theater level --->
 
 ### [ARP] Adjacent Risk Practices
 
 | ID# | Senior | Manager | Regional | Group |
 | ---- | ------ | -------| ------- | ------ |
-| **[ARP.1]** | `N/A` | *Has basic knowledge of the risk discipline [See Band 1 of risk ladder]* | `SAME` | Has <ins>**working**</ins> knowledge of...band <ins>**two**</ins> risk... | `SAME` | `SAME` |
-| **[ARP.2]** | `N/A` | *Assists the organization in understanding how security complements these practices* | `SAME` | `SAME` | `SAME` | `SAME` |
-| **[ARP.3]** | `N/A` | `N/A` | *Has basic knowledge of one additional security discipline* | ...at least <ins>**two**</ins> other... | `SAME` | Has basic knowledge of all security practices |
+| **[ARP.1]** | `N/A` | `N\A` | `N\A` | Has basic knowledge of all of the complementary security practices [Internal Audit, Privacy, Ethics, Sustainability, EHS, Competitive Intelligence, Supply Chain/Export Control] |
 
-Has working knowledge of all of the complementary security practices [Internal Audit, Privacy, Ethics, Sustainability, EHS, Competitive Intelligence, Supply Chain/Export Control] and deep knowledge in at least 2 of the practices.
-
-<!--- Add comments here for this area --->
+<!--- This will mirror the CSO/CISO Adjacent Business Practices  --->
 
 ### [ABP] Adjacent Business Practices
 
-| ID# | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ---- | ------ | ------- | ------ | -------| ------- | ------ |
-| **[ABP.1]** | `N/A` | *Has basic knowledge of engineering [Inc. development, architecture, QE, UX, product management]* | `SAME` | Has <ins>**working**</ins> knowledge of...<ins>**and has comprehensive knowledge of at least 1 of the practices**</ins> | `SAME` | `SAME` |
-| **[ABP.2]** | `N/A` | *Has basic knowledge of technical operations/IT including best practices [ITIL], tooling, and production incident response [recovery management]* | `SAME` | Has <ins>**working**</ins> knowledge of...management] <ins>**and has comprehensive knowledge of at least 1 of the practices**</ins> | `SAME` | `SAME` |
-| **[ABP.3]** | `N/A` | `N/A` | `N/A` | *Has basic knowledge of financial planning and accounting [Inc. forecasting, budget, and forensic accounting, procurement, ROI]* | `SAME` | `SAME` |
-| **[ABP.4]** | `N/A` | `N/A` | `N/A` | `N/A` | `N/A` | *Has basic knowledge of marketing [Inc. branding, pricing, channels, segmentation, etc.]* |
-| **[ABP.5]** | `N/A` | `N/A` | `N/A` | `N/A` | `N/A` | *Has basic knowledge of human resource programs [Inc. recruiting, performance management, development, separation, etc...* |
+| ID# | Senior | Manager | Regional | Group |
+| ---- | ------ | -------| ------- | ------ |
+| **[ABP.1]** | `N/A` | `N\A` | `N\A` | Has basic knowledge of financial planning and accounting [inc. forecasting, budget, forensic accounting, procurement, ROI]. |
+| **[ABP.2]** | `N/A` | `N\A` | `N\A` | Has basic knowledge of marketing [inc. branding, pricing, channels, segmentation, etc.]. |
+| **[ABP.3]** | `N/A` | Functions as trusted partner with the functional legal/compliance department and is a source of information/analysis on Cybersecurity. | Functions as trusted partner with the <ins>**regional**</ins>... | Functions as trusted partner with the <ins>**theater**</ins>...  |
+| **[ABP.4]** | `N/A` | `N\A` | `N\A` | Has basic knowledge of human resource programs [inc. recruiting, performance management, development, separation, etc.]. |
+| **[ABP.5]** | `N/A` | `N\A` | Has basic knowledge of engineering [inc. development, architecture, QE, UX, product management] | Has <ins>**working**</ins> knowledge... |
+| **[ABP.6]** | `N/A` | `N\A` | Has basic knowledge of technical operations/IT including best practices [ITIL], tooling, and production incident response [recovery management]. | Has <ins>**working**</ins> knowledge... |
 
-<!--- Add comments here for this area --->
+<!--- This again mirrors the CSO/CISO Ladder --->
 
-### [IR] Incident Response/Investigations
+### [IR] Incident Response
 
-| ID# | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ---- | ------ | ------- | ------ | -------| ------- | ------ |
-| **[IR.1]** | `N/A` | *Has basic knowledge of responding to computer incidents and computer misconduct investigations* | Has <ins>**working**</ins> knowledge of... | Has <ins>**deep**</ins> knowledge of... | `SAME` | Has <ins>**comprehensive**</ins> knowledge of... |
-| **[IR.2]** | `N/A` | *Has the ability to fulfill role of incident responder for a small scale security incidents* | ...for <ins>**medium**</ins> scale... | ...role of <ins>**incident commander for a medium scale regional/divisional security incident**</ins> | `SAME` | ...for <ins>**large**</ins> scale regional/divisional... |
-| **[IR.3]** | `N/A` | *Maintains contacts with relevant law enforcement entities required to support response/investigations* | `SAME` | `SAME` | `SAME` | `SAME` |
-| **[IR.4]** | `N/A` | `N/A` | `N/A` | *Has the ability to oversee/facilitate all types of corporate investigations [misconduct, workplace violence, fraud]* | `SAME` | `SAME` |
+| ID# | Senior | Manager | Regional | Group |
+| ---- | ------ | -------| ------- | ------ |
+| **[IR.1]** | `N/A` | Has basic knowledge of responding to computer incidents and computer misconduct investigations. | Has <ins>**working**</ins> knowledge of... | Has <ins>**deep**</ins> knowledge of... | `SAME` | Has <ins>**comprehensive**</ins> knowledge of... |
+| **[IR.2]** | `N\A`|   Has the ability to fulfill role of incident responder for a medium scale security incidents. | ...role of <ins>**incident commander for a medium scale regional/divisional security incident**</ins>  | ...for <ins>**large**</ins> scale regional/divisional... |
+| **[IR.3]** | `N/A` | `N\A` | Maintains contacts with regional law enforcement entities required to support response.| with <ins>**theater**</ins> law enforcement... |
 
 <!--- Add comments here for this area --->
 
 ### [ME] Metrics
 
-| ID# | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ---- | ------ | ------- | ------ | -------| ------- | ------ |
-| **[ME.1]** | `N/A` | *Reports on pre-defined SLA (service level agreements), KPIs (key performance indicators), and KRIs [Key Risk Indicators] for the security practice* | `SAME` | <ins>**Participates in the definition of the regional/divisional**</ins> SLA... | `SAME` | <ins>**Defines**</ins> the regional/divisional... |
+| ID# | Senior | Manager | Regional | Group |
+| ---- | ------ | -------| ------- | ------ |
+| **[ME.1]** | `N/A` | Reports on pre-defined SLA (service level agreements), KPIs (key performance indicators), and KRIs [Key Risk Indicators] for the security practice. | <ins>**Participates in the definition of the regional/divisional**</ins> SLA... | <ins>**Participates in the definition of the theater**</ins> SLA... |
 
 <!--- Add comments here for this area --->
 
 ### [TC] Technical Currency
 
-| ID# | Associate | Analyst | Senior | Principal | Advisory/Mgr | Director |
-| ---- | ------ | ------- | ------ | -------| ------- | ------ |
-| **[SN.1]** | `N/A` | *Stays current with industry best practices, design patterns, compliance requirements, threats, attacks and the security issues affecting <COMPANY>* | `SAME` | `SAME` | `SAME` | `SAME` |
-| **[SN.2]** | `N/A` | *Has a basic knowledge of all certifications that are relevant to <COMPANY> and works with the business to recommend/define need certifications that meet business drivers* | `SAME` | Has <ins>**deep**</ins> knowledge of... | `SAME` | `SAME` |
-| **[SN.3]** | `N/A` | *Has basic knowledge of security architecture patterns and helps teams understand it* | `SAME` | Has <ins>**working**</ins> knowledge of... | `SAME` | Has <ins>**deep**</ins> knowledge of... |
+| ID# | Senior | Manager | Regional | Group |
+| ---- | ------ | -------| ------- | ------ |
+| **[TC.1]** | Stays current with industry best practices, design patterns, compliance requirements, threats, attacks and the security issues affecting (COMPANY). | `SAME` | `SAME` | `SAME` |
+| **[TC.2]** | `N/A` | Has a basic knowledge of all certifications that are relevant to (COMPANY) and works with the business to recommend/define need certifications that meet business drivers*  | Has <ins>**working**</ins> knowledge of... | Has <ins>**deep**</ins> knowledge of... |
+| **[TC.3]** | `N\A` | Has basic knowledge of security architecture patterns and helps teams understand them.  | Has <ins>**working**</ins> knowledge of... | Has <ins>**deep**</ins> knowledge of... |

@@ -1,14 +1,11 @@
-BUSINESS SECURITY MANAGER: Career Ladder
+# BUSINESS SECURITY MANAGER: Career Ladder
 
-| Band | Title | Type | Promote in Band | Usual Time in Grade | Lower Salary | Mid Salary | High Salary | Variable Compensation |
+| Level | Title | Type | Promote in Level | Usual Time in Grade | Lower Salary | Mid Salary | High Salary | Variable Compensation |
 | ---- | ------ | ----- | -------- |---------- |  ------------ | ---------- | ----------- | --------------------- |
-| 0	| Intern\* |  |  |  | 10k | 10k | 10k |  |
-| 2	| Business Security Analyst |  |  |  | 100k | 120k | 140k |  |
-| 2	| Senior Business Security Analyst |  |  |  | 110k | 132k | 160k |  |
-| 3	| Business Security Manager |  |  |  | 120k | 149k | 178k |  |
-| 3	| Senior Business Security Manager |  |  |  | 132k | 160k | 195k |  |
-| 4	| Regional Security Manager	|  |  |  | 145k | 178k | 210k |  |
-| 5	| Senior Regional Security Manager |  |  |  | 155k | 192k | 230k |  |
-| 6	| Group/Theater CSO |  |  |  | 162k | 215k | 265k |  |
+| 0| Intern\* | Technical  | No | 0 yr | 10k/$20 per hour | 10k/$20 per hour| 10k/$20 per hour | Not eligible |
+| 2| Business Security Analyst| Technical  | Yes - Senior BSA | 2yr - 5yr | 100k | 135k | 160k | Not eligible |
+| 3| Business Security Manager | Managerial | Yes - Senior BSM| 4yr - 7yr | 120k | 160k | 195k | Infrequent |
+| 4| Regional Security Manager | Managerial | Yes - Senior RSM | 5yr - 10yr | 145k | 195k | 230k | Frequent |
+| 5| Group/Theater CSO/CISO | Managerial | Yes- Company CSO/CISO | 9+ yr | 162k | 215k | 265k | Mostly |
 
-<ins>\* salary is per semester</ins>
+<ins>\* 10K salary is per semester</ins>
