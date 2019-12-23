@@ -23,11 +23,9 @@ Specific area folders in `root` specifies a specific career track in the securit
 * Security Operations (SOC)
 
 These initially included three file types:
-| File | Covers |
-| ----- | ----- |
-|[AREA]_Generalist.md|Expected functional duties/knowledge|
-|[AREA]_NICE_MAPPING.md|Federal NICE equivalents|
-|[AREA]_Boston_Ladder.md|salary/time-at-level expectations for Boston|
+   * [AREA]_Generalist.md - Expected functional duties/knowledge
+   * [AREA]_NICE_MAPPING.md - U.S. Federal NICE equivalents
+   * [AREA]_Boston_Ladder.md - salary/time-at-level expectations for Boston
 
 ### Non-functional Skills
 
