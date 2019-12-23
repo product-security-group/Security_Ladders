@@ -1,11 +1,17 @@
 # GENERAL KNOWLEDGE: Management
 
+The general knowledge section is intended to capture the non-technical aspects of the career ladder.
+
+This section is specifically for individuals with management responsibilities.
+
+The level #'s are meant to generically reflect the requirements of that level why not explicitly calling out the job title.
+
 <!--- Basic constructs needed by managers --->
 
 ## [MT] Managing Teams
 
 | ID#         | Level 4 | Level 5 | Level 6 |
-| ----        | ------- | ------ | ------- | 
+| ----        | ------- | ------ | ------- |
 | **[MT.1]** |Directly manages 1 to many team members|...to many <ins>**managers**</ins>| ...to many <ins>**directors**</ins> |
 | **[MT.2]** |Working understanding of employment laws|<ins>**Deep**</ins> understanding of...| <ins>**Comprehensive**</ins> understanding of... |
 | **[MT.3]** |Working understanding of recruiting practices|<ins>**Deep**</ins> understanding of...| <ins>**Comprehensive**</ins> understanding of... |
@@ -16,7 +22,7 @@
 | **[MT.8]** |Identifies resources, plans for capacity and broadly sets the priority of work across their security team|their <ins>**functional**</ins> team| the <ins>**entire**</ins> team|
 | **[MT.9]** |`N\A`|Has the ability to lead the entire security team for short intervals| Leads the entire security team |
 
-<!--- Add comments here for this area --->
+<!--- Management team members must have financial acumen --->
 
 ## [MF] Managerial Finance
 

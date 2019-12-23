@@ -60,7 +60,7 @@
 | ----        | ------ | -------| ------- | ------ |
 | **[SC.1]** |Demonstrates deep knowledge in at least 1 programming language and has the ability to code review key security sections|...at least <ins>**2**</ins> languages|...in <ins>**multiple**</ins> languages|`SAME`|
 
-<!--- PS folks neeed to be able execute tools --->
+<!--- PS folks need to be able execute tools --->
 
 ### [QA] Security Testing
 
