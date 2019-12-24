@@ -1,16 +1,13 @@
 # INFORMATION RISK: Career Ladder
 
-| Band | Title | Type | Promote in Band | Usual Time in Grade | Lower Salary | Mid Salary | High Salary | Variable Compensation |
+| Level | Title | Type | Promote in Level | Usual Time in Grade | Lower Salary | Mid Salary | High Salary | Variable Compensation |
 | ---- | ------ | ----- | -------- |---------- |  ------------ | ---------- | ----------- | --------------------- |
-| 0	| Intern\* |  |  |  | 10k | 10k | 10k |  |
-| 1	| Associate Risk Analyst |  |  |  | 52k | 65k | 79k |  |
-| 1	| Risk Analyst |  |  |  | 67k | 83k | 100k |  |
-| 2	| Senior Risk Analyst |  |  |  | 85k | 107k | 129k |  |
-| 2	| Staff Risk Analyst |  |  |  | 93k | 121k | 147k |  |
-| 3	| Principal Risk Analyst |  |  |  | 108k | 136k | 163k |  |
-| 3	| Consulting Risk Analyst |  |  |  | 120k | 150k | 180k |  |
-| 4	| Risk Manager	|  |  |  | 132k | 165k | 198k |  |
-| 5	| Senior Risk Manager |  |  |  | 155k | 192k | 230k |  |
-| 6	| Director/Sr. of Info Risk |  |  |  | 162k | 215k | 265k |  |
+| 0| Intern\* | Technical  | No | 0 yr | 10k/$20 per hour | 10k/$20 per hour| 10k/$20 per hour | Not eligible |
+| 1| Associate GRC Analyst (Lvl I)| Technical  | Yes - GRC Analyst | 0yr - 3yr | 52k | 78k | 100k | Not eligible |
+| 2| Senior GRC Analyst (Lvl II)| Technical  | Yes - Senior II | 2yr - 5yr | 85k | 115k | 147k | Not eligible |
+| 3| Principal GRC analyst ( Lvl III) | Technical | Yes - Staff | 4yr - 7yr | 108k | 145k | 180k | Infrequent |
+| 4| Consulting | Technical | Yes -  Sr. Consulting | 5yr - 10yr | 123k | 165k | 205k | Frequent |
+| 4| GRC Manager | Managerial | Yes - Senior Manager | 5yr - 10yr | 132k | 185k | 230k | Frequent |
+| 5| Director of GRC | Managerial | Yes- Senior Director | 9+ yr | 162k | 215k | 265k | Mostly |
 
-<ins>\* salary is per semester</ins>
+<ins>\* 10K salary is per semester</ins>
