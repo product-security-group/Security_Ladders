@@ -2,7 +2,7 @@
 
 ## Functional/Technical Knowledge
 
-**NOTE:** Any skills labelled with a <ins>**G**</ins> Is meant to reflect a GSOC skill for a converged security operations center
+**NOTE:** Any skills labelled with a <ins>**G**</ins> Is meant to reflect a GSOC skill for a converged security operations center.
 
 **FUTURE:** We are considering breaking this up into other career ladders at some point including threat intelligence, forensic examiner, etc.
 
@@ -12,14 +12,14 @@
 
 | ID#         | Analyst | Senior | Principal | Advisory/Mgr | Architect/Director |
 | ----        | ------- | ------ | -------| ------- | ------ |
-| **[IDM.1]** |Monitors and analyzes Detection Systems (SIEM, Proxy, DDOS, IDS/IPS, EDR, Sandboxing, Email Gateway) to identify security issues for remediation.|Triages & remediates escalations from Analysts. |... escalations from <ins>**Seniors**</ins>|... escalations from <ins>**Principals**</ins>| `SAME` |
-| **[IDM.1G]** |Monitors and analyzes Detection Systems ( CCTV, Alarms, Guard force dispatch, Access Control Systems) to identify security issues for remediation.|Triages & remediates escalations from Analysts. |... escalations from <ins>**Seniors**</ins>|... escalations from <ins>**Principals**</ins>| `SAME` |
-| **[IDM.2]** |Has basic knowledge of network traffic analysis ( Netflow, Full Packet Capture, DPI ).|Has <ins>**Working**</ins> ... | Has <ins>**Deep**</ins> ... | Has <ins>**Comprehensive**</ins> ...|Has <ins>**Expert**</ins> ...|
-| **[IDM.3]** |Has basic knowledge of malware & variants.|Has <ins>**Working**</ins> ... | Has <ins>**Deep**</ins> ... | Has basic knowledge on reversing malware.|Has <ins>**working**</ins> ...|
+| **[IDM.1]** |Monitors and analyzes Detection Systems (SIEM, Proxy, DDOS, IDS/IPS, EDR, Sandboxing, Email Gateway) to identify security issues for remediation.|Triages & remediates escalations from Analysts. |... escalations from <ins>**seniors**</ins>|... escalations from <ins>**principals**</ins>| `SAME` |
+| **[IDM.1G]** |Monitors and analyzes Detection Systems ( CCTV, Alarms, Guard force dispatch, Access Control Systems) to identify security issues for remediation.|Triages & remediates escalations from Analysts. |... escalations from <ins>**seniors**</ins>|... escalations from <ins>**principals**</ins>| `SAME` |
+| **[IDM.2]** |Has basic knowledge of network traffic analysis ( Netflow, Full Packet Capture, DPI ).|Has <ins>**working**</ins> ... | Has <ins>**deep**</ins> ... | Has <ins>**comprehensive**</ins> ...|Has <ins>**expert**</ins> ...|
+| **[IDM.3]** |Has basic knowledge of malware & variants.|Has <ins>**working**</ins> ... | Has <ins>**deep**</ins> ... | Has basic knowledge on reversing malware.|Has <ins>**working**</ins> ...|
 | **[IDM.4]** |`N\A`|Proposes changes to Detection System rules. | <ins>**Leads**</ins> the deployment of new/modified Detection rules. | <ins>**Defines**</ins> changes...|`SAME`|
-| **[IDM.5]** |`N\A`|`N\A` | Has basic knowledge of ICS & Wireless/Radio detection mechanisms. | Has <ins>**Working**</ins> ...|Has <ins>**Deep**</ins> ...|
-| **[IDM.6]** |`N\A`|`N\A` | Has basic knowledge of SOAR deployments & can create basic automation to assist in detection. | Has <ins>**Working**</ins> ...|Has <ins>**Deep**</ins> ...|
-| **[IDM.7]** |`N\A`|`N\A` | Has basic knowledge of threat hunting & deception techniques. | Has <ins>**Working**</ins> ...|Has <ins>**Deep**</ins> ...|
+| **[IDM.5]** |`N\A`|`N\A` | Has basic knowledge of ICS & Wireless/Radio detection mechanisms. | Has <ins>**working**</ins> ...|Has <ins>**deep**</ins> ...|
+| **[IDM.6]** |`N\A`|`N\A` | Has basic knowledge of SOAR deployments & can create basic automation to assist in detection. | Has <ins>**working**</ins> ...|Has <ins>**deep**</ins> ...|
+| **[IDM.7]** |`N\A`|`N\A` | Has basic knowledge of threat hunting & deception techniques. | Has <ins>**working**</ins> ...|Has <ins>**deep**</ins> ...|
 
 <!--- OPEN: Was considering adding a NIMS reference --->
 
@@ -40,7 +40,7 @@
 | ID#         | Analyst | Senior | Principal | Advisory/Mgr | Architect/Director |
 | ----        | ------- | ------ | -------| ------- | ------ |
 | **[IT.1]** |Has basic knowledge of adversaries TTPs and how they may impact the organization. |Has <ins>**working**</ins>  |Has <ins>**deep**</ins> knowledge...|Has <ins>**comprehensive**</ins> knowledge...|Has <ins>**expert**</ins> knowledge...|
-| **[IT.2]** |Has basic understanding of how to consume various intelligence feeds (OSINT, ISAC, Vendor ) to inform monitoring & detection responsibilities. |Has <ins>**working**</ins> knowledge of tactical intelligence concepts | ... knowledge of <ins>**operational**</ins> intelligence |... knowledge of <ins>**strategic**</ins> intelligence|Has <ins>**deep**</ins> knowledge in all 3 intelligence areas|
+| **[IT.2]** |Has basic understanding of how to consume various intelligence feeds (OSINT, ISAC, Vendor ) to inform monitoring & detection responsibilities. |Has <ins>**working**</ins> knowledge of tactical intelligence concepts. | ... knowledge of <ins>**operational**</ins> intelligence. |... knowledge of <ins>**strategic**</ins> intelligence.|Has <ins>**deep**</ins> knowledge in all 3 intelligence areas.|
 | **[IT.2G]** |Has basic understanding of how to consume various intelligence feeds (Travel, DSAC, State Department/DHS ) to inform monitoring & detection responsibilities. |`As above` | `As above` |`As above`|`As above`|
 | **[IT.3]** |`N\A` |`N\A`|Proposes changes to intelligence feeds.|Has <ins>**Leads**</ins> changes...| Has <ins>**Defines**</ins> changes...|
 | **[IT.4]** |`N\A` |`N\A`|`N\A`|Participates in intelligence sharing activities.| <ins>**Leads**</ins> intelligence...|

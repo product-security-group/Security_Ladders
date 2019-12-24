@@ -5,6 +5,8 @@
 Mapping based on Role(s):
 **Executive Cyber Leadership ( OV-EXL-001)**
 
+**NOTE:** For CPA.1, please use the respective functional ladders for skills.
+
 | ID# | Knowledge (K) | Skills (S) | Tasks (T) | Abilities (A) |
 | ----- | --------- | ------------| --------- | ------------------ |
 | CPA.1 |  |  |  | |
@@ -19,9 +21,9 @@ Mapping based on Role(s):
 | RM.1  | K0002 |  | T0509 | |
 | RM.2  |  |  | T0928 | |
 | RM.3  |  |  |  | |
-| SS.1  |  |  |  | |
-| SS.2  |  |  |  | |
-| SS.3  |  |  |  | |
+| SS.1  |  | S0244, S0329 |  | A0087 |
+| SS.2  |  | S0111 |  | A0095|
+| SS.3  |  | S0296, S0374 |  | |
 | IR.1  |  |  |  | |
 | IR.2  |  |  |  | |
 | IR.3  |  |  | T0130 | |

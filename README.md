@@ -32,7 +32,7 @@ These initially included three file types:
 Additionally, there is a folder called ( GENERAL_KNOWLEDGE GK)
 This folder contains the business/non-functional skills that are required for each level. There are three files in the folder.
 
-     * GK_Generalist.md - This outlines non-functional skills required for your level
+     * GK_Generalist.md - This outlines non-functional skills required for your level.
      * GK_Management.md - This outlines management specific skills for those positions.
      * GK_NICE_Mapping.md - Like the other roles, we added a generic mapping to NICE.
 
