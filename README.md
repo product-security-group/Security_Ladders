@@ -8,6 +8,12 @@
 
 Well, in our journey through the ranks we had to make these up as we went. That coupled with the number of folks we mentor asking us how to advance, we felt the best way to help is to open source what we developed so the community could benefit from what we have learned. They are by no means complete but they are a good start for folks that need some guidance.
 
+## Blog Series 
+
+:new: 1/13/2020 - We decided to launch a 3-part blog series to help folks get the most out of these career ladders. Part 1 dropped today which expands sections of the README to provide more detail. 
+
+**PART 1** - [We don't need no stinking ladders](https://www.productsecuritygroup.com/post/we-don-t-need-no-stinking-ladders)
+
 ## General structure
 
 ### Functional Skills
