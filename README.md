@@ -14,6 +14,10 @@ Well, in our journey through the ranks we had to make these up as we went. That 
 
 **PART 1** - [We don't need no stinking ladders](https://www.productsecuritygroup.com/post/we-don-t-need-no-stinking-ladders)
 
+**PART 2** - [No I've been nervous lots of times](https://www.productsecuritygroup.com/post/no-i-ve-been-nervous-lots-of-times)
+
+**PART 3** - [Harry I've reached the top](https://www.productsecuritygroup.com/post/harry-i-ve-reached-the-top)
+
 ## General structure
 
 ### Functional Skills
@@ -52,6 +56,8 @@ This folder contains the business/non-functional skills that are required for ea
 5. Review the non-functional skills.
 6. To determine where you sit in the salary department, we provided Boston-area salary information. Just a note: Salaries in Boston tend to be roughly 25% greater than the US national average.
 7. If you are basing you program on [National Initiative for Cybersecurity Careers and Studies](https://niccs.us-cert.gov/), we have provided a basic mapping to the NICE roles/skills we thought were relevant.
+
+
 
 ## Contributing
 
