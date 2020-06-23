@@ -12,11 +12,11 @@ Well, in our journey through the ranks we had to make these up as we went. That 
 
 :new: 1/13/2020 - We decided to launch a 3-part blog series to help folks get the most out of these career ladders. Part 1 dropped today which expands sections of the README to provide more detail. 
 
-**PART 1** - [We don't need no stinking ladders](https://www.productsecuritygroup.com/post/we-don-t-need-no-stinking-ladders)
+**PART 1** - [We don't need no stinking ladders](https://productsecuritygroup.com/blog/2020/01/13/we-dont-need-no-stinking-ladders/)
 
-**PART 2** - [No I've been nervous lots of times](https://www.productsecuritygroup.com/post/no-i-ve-been-nervous-lots-of-times)
+**PART 2** - [No I've been nervous lots of times](https://productsecuritygroup.com/blog/2020/01/20/nervous-lots-of-times/)
 
-**PART 3** - [Harry I've reached the top](https://www.productsecuritygroup.com/post/harry-i-ve-reached-the-top)
+**PART 3** - [Harry I've reached the top](https://productsecuritygroup.com/blog/2020/01/27/ive-reached-the-top/)
 
 ## General structure
 
