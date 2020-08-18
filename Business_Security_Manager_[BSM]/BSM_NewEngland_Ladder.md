@@ -1,5 +1,8 @@
-# BUSINESS SECURITY MANAGER: Career Ladder - New England
-NOTE: This does not include metro Boston.
+# BUSINESS SECURITY MANAGER
+
+## Salary Ladder - New England, USA
+
+**NOTE**: This does not include metro Boston.
 
 | Level | Title | Type | Promote in Level | Usual Time in Grade | Lower Salary | Mid Salary | High Salary | Variable Compensation |
 | ---- | ------ | ----- | -------- |---------- |  ------------ | ---------- | ----------- | --------------------- |

@@ -8,15 +8,24 @@
 
 Well, in our journey through the ranks we had to make these up as we went. That coupled with the number of folks we mentor asking us how to advance, we felt the best way to help is to open source what we developed so the community could benefit from what we have learned. They are by no means complete but they are a good start for folks that need some guidance.
 
-## Blog Series 
+## Change Log
 
-:new: 1/13/2020 - We decided to launch a 3-part blog series to help folks get the most out of these career ladders. Part 1 dropped today which expands sections of the README to provide more detail. 
+:new: **08/18/2020** - We have posted out new salary data for the rest of New England. There are a couple of notes:
 
-**PART 1** - [We don't need no stinking ladders](https://www.productsecuritygroup.com/post/we-don-t-need-no-stinking-ladders)
+* **Coverage** - The New England ladders cover roughly from Portland, ME over to Burlington, VT down to New Britain, CT over to Providence, RI and up to Manchester, NH. This includes cities such as Hartford, Springfield, Worcester, Concord, etc.
+* **Stamford, CT** - This was a bit tricky. In many ways it was more like NYC than the rest of New England. Our suggestion is folks use the Boston ladders instead of the New England ladders for Stamford/Greenwich CT.
+* **Northern Maine** - To be honest, we were unable to get much in the way of data north of Portland, ME so the cities of Augusta and Bangor maybe slightly different.
+* **CSO** - There was very little difference in CSO pay across New England. We have included a file for continuity sake but the values will be the same as metro-Boston.
 
-**PART 2** - [No I've been nervous lots of times](https://www.productsecuritygroup.com/post/no-i-ve-been-nervous-lots-of-times)
+## Blog Series
 
-**PART 3** - [Harry I've reached the top](https://www.productsecuritygroup.com/post/harry-i-ve-reached-the-top)
+We provided a 3-part blog series to help folks get the most out of these career ladders. Part 1 dropped today which expands sections of the README to provide more detail. 
+
+**PART 1** - [We don't need no stinking ladders](https://productsecuritygroup.com/blog/2020/01/13/we-dont-need-no-stinking-ladders/)
+
+**PART 2** - [No I've been nervous lots of times](https://productsecuritygroup.com/blog/2020/01/20/nervous-lots-of-times/)
+
+**PART 3** - [Harry I've reached the top](https://productsecuritygroup.com/blog/2020/01/27/ive-reached-the-top/)
 
 ## General structure
 
@@ -34,9 +43,9 @@ Specific area folders in `root` specifies a specific career track in the securit
 
 These initially included three file types:
 
-fgT[AREA]_Generalist.md - Expected functional duties/knowledge
-   * [AREA]_NICE_MAPPING.md - U.S. Federal NICE equivalents
-   * [AREA]_Boston_Ladder.md - salary/time-at-level expectations for Boston
+* [AREA]_Generalist.md - Expected functional duties/knowledge
+* [AREA]_NICE_MAPPING.md - U.S. Federal NICE equivalents
+* [AREA]_Boston_Ladder.md - salary/time-at-level expectations for Boston
 
 ### Non-functional Skills
 
@@ -56,8 +65,6 @@ This folder contains the business/non-functional skills that are required for ea
 5. Review the non-functional skills.
 6. To determine where you sit in the salary department, we provided Boston-area salary information. Just a note: Salaries in Boston tend to be roughly 25% greater than the US national average.
 7. If you are basing you program on [National Initiative for Cybersecurity Careers and Studies](https://niccs.us-cert.gov/), we have provided a basic mapping to the NICE roles/skills we thought were relevant.
-
-
 
 ## Contributing
 

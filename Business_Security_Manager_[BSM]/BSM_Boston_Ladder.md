@@ -1,4 +1,6 @@
-# BUSINESS SECURITY MANAGER: Career Ladder
+# BUSINESS SECURITY MANAGER
+
+## Salary Ladder - Boston, MA, USA
 
 | Level | Title | Type | Promote in Level | Usual Time in Grade | Lower Salary | Mid Salary | High Salary | Variable Compensation |
 | ---- | ------ | ----- | -------- |---------- |  ------------ | ---------- | ----------- | --------------------- |

@@ -1,4 +1,6 @@
-# CHIEF SECURITY OFFICER: Boston Salary Information
+# CHIEF SECURITY OFFICER 
+
+## Salary Ladder: Boston, MA USA
 
 | Level | Title | Type | Promote in Level | Usual Time in Grade | Lower Salary | Mid Salary | High Salary | Variable Compensation |
 | ---- | ------ | ----- | -------- |---------- |  ------------ | ---------- | ----------- | --------------------- |
