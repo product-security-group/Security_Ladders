@@ -21,7 +21,7 @@ Well, in our journey through the ranks we had to make these up as we went. That 
 
 We provided a 3-part blog series to help folks get the most out of these career ladders. Part 1 dropped today which expands sections of the README to provide more detail. 
 
-**PART 1** - [We don't need no stinking ladders](https://productsecuritygroup.com/articles/career-ladders-pt1.html/)
+**PART 1** - [We don't need no stinking ladders](https://productsecuritygroup.com/blogarticles/career-ladders-pt1.html/)
 
 **PART 2** - [No I've been nervous lots of times](https://productsecuritygroup.com/blog/2020/01/20/nervous-lots-of-times/)
 
