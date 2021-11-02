@@ -10,7 +10,9 @@ Well, in our journey through the ranks we had to make these up as we went. That 
 
 ## Change Log
 
-:new: **08/18/2020** - We have posted out new salary data for the rest of New England. There are a couple of notes:
+:new: **11/02/2021** - We have posted out new salary data for the Boston area. Thing to note: In the COVID world of remote work, we have definitely seen salaries norm to a pretty standard level. We have not seen the big swings in salaries based on geography we have seen in the past. This is good news for a lot of folks that are living in smaller metro areas. Additionally, the demand for product security folks is surging and it is definitely a sellers market for folks with skills. 
+
+**08/18/2020** - We have posted out new salary data for the rest of New England. There are a couple of notes:
 
 * **Coverage** - The New England ladders cover roughly from Portland, ME over to Burlington, VT down to New Britain, CT over to Providence, RI and up to Manchester, NH. This includes cities such as Hartford, Springfield, Worcester, Concord, etc.
 * **Stamford, CT** - This was a bit tricky. In many ways it was more like NYC than the rest of New England. Our suggestion is folks use the Boston ladders instead of the New England ladders for Stamford/Greenwich CT.
