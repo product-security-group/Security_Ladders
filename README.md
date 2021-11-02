@@ -21,11 +21,11 @@ Well, in our journey through the ranks we had to make these up as we went. That 
 
 We provided a 3-part blog series to help folks get the most out of these career ladders. Part 1 dropped today which expands sections of the README to provide more detail. 
 
-**PART 1** - [We don't need no stinking ladders](https://productsecuritygroup.com/blogarticles/career-ladders-pt1.html)
+**PART 1** - [We don't need no stinking ladders](https://www.productsecuritygroup.com/blogarticles/career-ladders-pt1.html)
 
-**PART 2** - [No I've been nervous lots of times](https://productsecuritygroup.com/blogarticles/career-ladders-pt2.html)
+**PART 2** - [No I've been nervous lots of times](https://www.productsecuritygroup.com/blogarticles/career-ladders-pt2.html)
 
-**PART 3** - [Harry I've reached the top](https://productsecuritygroup.com/blogarticles/career-ladders-pt3.html)
+**PART 3** - [Harry I've reached the top](https://wwww.productsecuritygroup.com/blogarticles/career-ladders-pt3.html)
 
 ## General structure
 
