@@ -1,6 +1,6 @@
 # PRODUCT SECURITY
 
-## Salary Ladder: Boston, MA USA
+## Salary Ladder: USA
 
 | Level | Title | Type | Promote in Level | Usual Time in Grade | Lower Salary | Mid Salary | High Salary | Variable Compensation |
 | ---- | ------ | ----- | -------- |---------- |  ------------ | ---------- | ----------- | --------------------- |
@@ -13,6 +13,10 @@
 | 5| Director of Product Security | Managerial | Yes- Senior Director | 9+ yr | 200k | 240k | 285k | Almost Definitely |
 
 <ins>\* 10K salary is per semester</ins>
+## NORMALIZATION
+
+While outliers exist, salaries for Prodsec/Appsec professionals have mostly normalized domestically across the bands represented above. 
+
 ## VARIABLE COMPENSATION
 
 We would expect the variable compensation rate to be in the 15-25% of salary range.
